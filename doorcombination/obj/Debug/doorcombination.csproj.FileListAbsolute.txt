@@ -1,0 +1,7 @@
+C:\Users\pjgon\Desktop\doorcombination\bin\Debug\doorcombination.exe.config
+C:\Users\pjgon\Desktop\doorcombination\bin\Debug\doorcombination.exe
+C:\Users\pjgon\Desktop\doorcombination\bin\Debug\doorcombination.pdb
+C:\Users\pjgon\Desktop\doorcombination\obj\Debug\doorcombination.csproj.AssemblyReference.cache
+C:\Users\pjgon\Desktop\doorcombination\obj\Debug\doorcombination.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\doorcombination\obj\Debug\doorcombination.exe
+C:\Users\pjgon\Desktop\doorcombination\obj\Debug\doorcombination.pdb
